@@ -6,7 +6,9 @@ The S4MI (Self-Supervision and Semi-Supervision for Medical Imaging) pipeline ai
 
 Our extensive research, benchmarking these techniques across three medical imaging datasets, highlights their impressive effectiveness in classification and segmentation tasks. Notably, self-supervised learning with just 10% of the annotation outperformed full annotation in most datasets' classification tasks. Similarly, we observed that semi-supervised approach excelled in segmentation, achieving better results than fully-supervised methods with half the labels across all datasets.
 
-In our commitment to fostering scientific advancement, we are releasing the S4MI code to the public. This will facilitate broader application and continuous development of these cutting-edge methods in medical imaging. For ease of use and replication, the code for reproducing classification tasks is organized in the 'classification' folder, while the code pertinent to segmentation is conveniently located in the 'segmentation' folder. 
+In our commitment to fostering scientific advancement, we are releasing the S4MI code to the public. This will facilitate broader application and continuous development of these cutting-edge methods in medical imaging. 
+
+**For ease of use and replication, the code for reproducing classification tasks is organized in the 'classification' folder, while the code pertinent to segmentation is conveniently located in the 'segmentation' folder.**
 
 Pranav Singh, Raviteja Chukkapalli, Shravan Chaudhari, Luoyao Chen, Mei Chen, Jinqian Pan, Craig Smuda and Jacopo Cirrone \
  New York University.
